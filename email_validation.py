@@ -10,7 +10,6 @@ def email_validation(s):
         print("email is not valid")
 
 s = input("enter your email:")
-
 #email_validation(s)
 
 #using string functions
