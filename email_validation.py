@@ -1,5 +1,5 @@
-#regex basics
-#https://www.w3schools.com/python/python_regex.asp
+#email validation using regex or string functions
+#https://www.geeksforgeeks.org/check-if-email-address-valid-or-not-in-python/
 import re
 
 #using regex
@@ -11,6 +11,7 @@ def email_validation(s):
 
 s = input("enter your email:")
 
+#uncomment below line to use regex method
 #email_validation(s)
 
 #using string functions
@@ -23,7 +24,7 @@ def string_email_validation(s):
 
         #domain name should be in allowed list
         if(s[-3:] in ('com','in','gov','edu','uk','org')):
-            #can start with alphabets, numbers or allowed special characters
+            #can start with alphabets, numbers or certain special characters
             if(s[0].isalnum() or s[0] in ('-','_')):
                 print("email is valid")
             else:

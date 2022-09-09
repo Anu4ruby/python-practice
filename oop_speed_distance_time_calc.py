@@ -1,5 +1,6 @@
 #lets calculate the speed distance and time using the object oriented python and first class functions
 #https://favtutor.com/blogs/python-switch-case
+#https://www.geeksforgeeks.org/passing-function-as-an-argument-in-python/
 class CalculatorSwitch:
 
     def operation(self,selection):
