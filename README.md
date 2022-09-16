@@ -1,16 +1,16 @@
 # python-practice
-Find Python code snippets for the following:
-Email Validation  in Python ( Using String Functions )
-QRcode using python 
-Speed calculator
-CONVERT TEXT TO HANDWRITING
-YouTube Video Downloader
-Desktop Notifier using Python ( Python code run in the background )
+1. Find Python code snippets for the following:
+2. Email Validation  in Python ( Using String Functions )
+3. QRcode using python 
+4. Speed calculator
+5. CONVERT TEXT TO HANDWRITING
+6. YouTube Video Downloader
+7. Desktop Notifier using Python ( Python code run in the background )
 
-Convert Python File to exe ( pyinstaller )
-Website Blocker using Python
-Phone Number Details using python
-Instagram Automate
-Gmail Automate
-Google Translate
-Screen Recorder Using  Python
+8. Convert Python File to exe ( pyinstaller )
+9. Website Blocker using Python
+10. Phone Number Details using python
+11. Instagram Automate
+12. Gmail Automate
+13. Google Translate
+14. Screen Recorder Using  Python
